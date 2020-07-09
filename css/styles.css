@@ -1,0 +1,15 @@
+.tropical{
+  font-family: fantasy;
+  color: #7dc410;
+}
+.headers{
+  color: #f7325e;
+}
+.popular{
+  font-family: 'Lucida Sans';
+  color: red;
+
+}
+p.popular{
+  font-style: italic;
+}
